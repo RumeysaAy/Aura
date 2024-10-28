@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/rumeysaay/Documents/Unreal Projects/Aura/Source/Aura/Aura.Build.cs",
+		"/Users/rumeysaay/Documents/Unreal Projects/Aura/Source/Aura.Target.cs",
+		"/Users/rumeysaay/Documents/Unreal Projects/Aura/Source/AuraEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
